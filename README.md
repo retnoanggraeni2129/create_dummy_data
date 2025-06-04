@@ -67,12 +67,12 @@ Demonstrate the creation of dummy data, variable development, and descriptive st
 # Recommendations
 1. Main Purpose of the Application: Understand user characteristics in real-time. Customize services and promotions based on user segmentation. Increase user engagement and retention through data-driven decisions.
 2. Main Features of the Application:
-   a. User Demographics & Segmentations: Display demographic data such as age, location, and interests. Personalize content and promotions based on segmentation (e.g., promotions for young age, specific city users).
-   b. Real-Time Analytics Dashboard: Shows peak visit times (e.g., afternoon) and top locations. Send automatic notifications when user uptime is high (afternoon)
-   c. Location-Based Promotion: Send special promotions at certain popular locations (e.g. cafes or libraries). Enable geofencing to increase engagement in targeted areas.
-   d. Device & Brand Targeting: Develop promotions and content for users based on HP brands and high-end or mid-range segments. Optimize the experience of users using specific brands.
-   e. Interest & Category Personalization: Understand users' key interest categories and offer content accordingly (e.g., special offers for Low interest categories).
-   f. User Engagement Timing Optimization: Send notifications, promos, or communications during peak hours (evening) to increase traffic and conversions.
+  - User Demographics & Segmentations: Display demographic data such as age, location, and interests. Personalize content and promotions based on segmentation (e.g., promotions for young age, specific city users).
+  - Real-Time Analytics Dashboard: Shows peak visit times (e.g., afternoon) and top locations. Send automatic notifications when user uptime is high (afternoon)
+  - Location-Based Promotion: Send special promotions at certain popular locations (e.g. cafes or libraries). Enable geofencing to increase engagement in targeted areas.
+  - Device & Brand Targeting: Develop promotions and content for users based on HP brands and high-end or mid-range segments. Optimize the experience of users using specific brands.
+  - Interest & Category Personalization: Understand users' key interest categories and offer content accordingly (e.g., special offers for Low interest categories).
+  - User Engagement Timing Optimization: Send notifications, promos, or communications during peak hours (evening) to increase traffic and conversions.
 3. Technology and Implementation:
    - Backend: Using data analytics and machine learning for automated segmentation.
    - Frontend: Web/mobile based interactive dashboard using React, Flutter, or similar platforms.
