@@ -91,6 +91,8 @@ Demonstrate the creation of dummy data, variable development, and descriptive st
 - Surabaya and Bandung are the cities with the most internet users. 
 - Peak user activity occurs in the afternoon, signaling the main time of use of the service. 
 - The suggested application will utilize user data to provide a personalized and relevant experience through location, uptime, and interest analysis, thereby increasing engagement, targeted promotions, and real-time data-driven decision-making.
+- Worth noting: Every time you run python code like the one in this notebook file, the results will not be the same. Therefore, for proper data analysis results, data continuity is required (make sure the data used for analysis is the same). 
+
 
 
 # Contact Me:
