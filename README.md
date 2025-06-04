@@ -96,3 +96,4 @@ Demonstrate the creation of dummy data, variable development, and descriptive st
 # Contact Me:
 LinkedIn: https://www.linkedin.com/in/retnoanggraeni/
 Email: retnoagraeni@gmail.com
+Dashboard Interactive: https://public.tableau.com/app/profile/retno.anggraeni/viz/datadummy_17489618237160/Dashboard1
